@@ -1,5 +1,7 @@
 ### 👋 Hi, I’m Nulldi
 
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCXLJgYTy7WbHpZm2cUua-bQ?label=Subscribe&style=for-the-badge&url=https://www.youtube.com/channel/UCXLJgYTy7WbHpZm2cUua-bQ)](https://www.youtube.com/channel/UCXLJgYTy7WbHpZm2cUua-bQ)
+
 ## I’m currently learning: </br>
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
